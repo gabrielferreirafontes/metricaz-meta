@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910119043951",
+    "project_id": "aplicativo-com-botao",
+    "storage_bucket": "aplicativo-com-botao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910119043951:android:4c1560a4b65ff0a2f89e9a",
+        "android_client_info": {
+          "package_name": "com.example.aplicativocomboto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0nVrVkOvL59tS-cJ8l2rqbyrQ-HBbO0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
